@@ -1,0 +1,23 @@
+DESCRIPTION:
+
+Data Visualization is basically the presentation – creation and visual representation of data in graphical or pictorial format. Being closely related to information graphics and visualization, statistical graphics and scientific visualization, data visualization software has become has become an active field of development and research. This project is here to give overview about design and implementation techniques in data visualization.
+
+This software development project, data visualization, is a final year project in Java. You can download source codes, projects files and other necessary documents for data visualization software from the link provided in this post.
+
+From a computer science or computer engineering perspective, data visualization can be categorized into a various sub-categories, namely — information visualization, techniques of modeling, techniques and architectures of interaction, techniques and algorithm for visualization, multi-resolution methods and lastly volume visualization.
+
+READ MORE ABOUT DATA VISUALIZATION HERE.
+
+In this data visualization software, node connectivity in networking is displayed in data visualization form, and can be located at different locations via. mouse or track-pad. Communication using raw data is made efficient, and based on the requirement, users can design various kinds of data visualization patterns.
+
+GOALS AND OBJECTIVES:
+
+The data visualization software in Java is developed with the following goals and objectives:
+
+Clear and effective communication of information through graphical or pictorial means.
+It shouldn’t look boring to be functional or be very sophisticated; both functionality and aesthetic form should go hand-in-hand.
+Provide necessary insights into complex set of data and information, and convey ideas effectively.
+Achieve a balance between software’s function and form.
+Tend to stimulate viewer’s attention and engagement alongside communicating information effectively.
+Data visualization is used in different areas and has a wide scope in software bio-tech, education, research, and many more, for conveying and understanding information easily.
+Don’t keep this software limited with its current features and scopes. New features and enhancements can be done as per requirements to make this software a better one and of wider scope.
