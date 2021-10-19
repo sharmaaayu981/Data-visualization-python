@@ -1,0 +1,35 @@
+n today’s world, a lot of data is being generated on a daily basis. And sometimes to analyze this data for certain trends, patterns may become difficult if the data is in its raw format. To overcome this data visualization comes into play. Data visualization provides a good, organized pictorial representation of the data which makes it easier to understand, observe, analyze. In this tutorial, we will discuss how to visualize data using Python.
+
+data visualization using python
+
+Python provides various libraries that come with different features for visualizing data. All these libraries come with different features and can support various types of graphs. In this tutorial, we will be discussing four such libraries.
+
+Matplotlib
+Seaborn
+Bokeh
+Plotly
+We will discuss these libraries one by one and will plot some most commonly used graphs. 
+
+
+
+
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+
+# reading the database
+data = pd.read_csv("tips.csv")
+
+# Scatter plot with day against tip
+plt.scatter(data['day'], data['tip'])
+
+# Adding Title to the Plot
+plt.title("Scatter Plot")
+
+# Setting the X and Y labels
+plt.xlabel('Day')
+plt.ylabel('Tip')
+
+plt.show()
